@@ -1,2 +1,2 @@
-# WebViewJavaScriptBridge_iOS
-WebViewJavaScriptBridge_iOS
+# ObjCWebViewJavaScriptBridge
+ObjCWebViewJavaScriptBridge

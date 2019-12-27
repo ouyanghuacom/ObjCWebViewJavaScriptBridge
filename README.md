@@ -1,4 +1,4 @@
-# WVJSB
+# ObjCWebViewJavaScriptBridge
 
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/ouyanghuacom/ObjCWebViewJavaScriptBridge/master/LICENSE)
 [![Build Status](https://img.shields.io/travis/ouyanghuacom/ObjCWebViewJavaScriptBridge/master.svg?style=flat)](https://travis-ci.org/ouyanghuacom/ObjCWebViewJavaScriptBridge)
